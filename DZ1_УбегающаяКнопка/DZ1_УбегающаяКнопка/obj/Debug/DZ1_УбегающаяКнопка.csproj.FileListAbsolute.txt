@@ -1,0 +1,14 @@
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\bin\Debug\DZ1_УбегающаяКнопка.exe.config
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\bin\Debug\DZ1_УбегающаяКнопка.exe
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\bin\Debug\DZ1_УбегающаяКнопка.pdb
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\DZ1_УбегающаяКнопка.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\MainWindow.g.cs
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\App.g.cs
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\DZ1_УбегающаяКнопка_MarkupCompile.cache
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\DZ1_УбегающаяКнопка_MarkupCompile.lref
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\MainWindow.baml
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\DZ1_УбегающаяКнопка.g.resources
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\DZ1_УбегающаяКнопка.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\DZ1_УбегающаяКнопка.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\DZ1_УбегающаяКнопка.exe
+C:\Users\group-bbv182\source\repos\DZ1_УбегающаяКнопка\DZ1_УбегающаяКнопка\obj\Debug\DZ1_УбегающаяКнопка.pdb

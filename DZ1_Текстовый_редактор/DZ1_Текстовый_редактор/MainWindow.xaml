@@ -1,0 +1,25 @@
+﻿<Window x:Class="DZ1_Текстовый_редактор.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DZ1_Текстовый_редактор"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStyle="SingleBorderWindow">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Menu HorizontalAlignment="Left" Height="47" VerticalAlignment="Top" Width="792" Grid.ColumnSpan="3">
+            <Button Content="Cut" Height="37" Width="195" Name="Cut" Click="Cut_Click"/>
+            <Button Content="Сору" Height="37" Width="195" Name="Copy" Click="Copy_Click"/>
+            <Button Content="Paste" Height="37" Width="195" Name="Paste" Click="Paste_Click"/>
+        </Menu>
+        <TextBox HorizontalAlignment="Left" Height="357" Margin="10,52,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="772" VerticalScrollBarVisibility="Auto" Name="textBox" AcceptsReturn="" Grid.ColumnSpan="3">
+            <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+        </TextBox>
+
+    </Grid>
+</Window>

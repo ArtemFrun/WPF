@@ -1,0 +1,14 @@
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\bin\Debug\DZ1_Текстовый_редактор.exe.config
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\bin\Debug\DZ1_Текстовый_редактор.exe
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\bin\Debug\DZ1_Текстовый_редактор.pdb
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\DZ1_Текстовый_редактор.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\MainWindow.g.cs
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\App.g.cs
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\DZ1_Текстовый_редактор_MarkupCompile.cache
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\DZ1_Текстовый_редактор_MarkupCompile.lref
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\MainWindow.baml
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\DZ1_Текстовый_редактор.g.resources
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\DZ1_Текстовый_редактор.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\DZ1_Текстовый_редактор.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\DZ1_Текстовый_редактор.exe
+C:\Users\group-bbv182\source\repos\DZ1_Текстовый_редактор\DZ1_Текстовый_редактор\obj\Debug\DZ1_Текстовый_редактор.pdb
