@@ -1,0 +1,14 @@
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\bin\Debug\DZ1_Цветовая_схема.exe.config
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\bin\Debug\DZ1_Цветовая_схема.exe
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\bin\Debug\DZ1_Цветовая_схема.pdb
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\DZ1_Цветовая_схема.csprojAssemblyReference.cache
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\MainWindow.g.cs
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\App.g.cs
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\DZ1_Цветовая_схема_MarkupCompile.cache
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\DZ1_Цветовая_схема_MarkupCompile.lref
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\MainWindow.baml
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\DZ1_Цветовая_схема.g.resources
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\DZ1_Цветовая_схема.Properties.Resources.resources
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\DZ1_Цветовая_схема.csproj.GenerateResource.cache
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\DZ1_Цветовая_схема.exe
+C:\Users\tjomka777tjomka777\Source\Repos\DZ1_Цветовая_схема\DZ1_Цветовая_схема\obj\Debug\DZ1_Цветовая_схема.pdb

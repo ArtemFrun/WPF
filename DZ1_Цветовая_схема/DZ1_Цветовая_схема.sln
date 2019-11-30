@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ1_Цветовая_схема", "DZ1_Цветовая_схема\DZ1_Цветовая_схема.csproj", "{2F7F48D1-168F-4738-ACF5-19110B3F84A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F7F48D1-168F-4738-ACF5-19110B3F84A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7F48D1-168F-4738-ACF5-19110B3F84A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7F48D1-168F-4738-ACF5-19110B3F84A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7F48D1-168F-4738-ACF5-19110B3F84A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E375B082-A171-4A08-9F79-DF45DE9985BC}
+	EndGlobalSection
+EndGlobal
